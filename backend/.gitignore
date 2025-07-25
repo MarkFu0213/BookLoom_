@@ -1,0 +1,8 @@
+.idea
+
+# 🚀 Python Virtual Environment & Compiled Files
+venv/                    # Virtual environment
+__pycache__/             # Python bytecode
+*.pyc                    # Compiled Python files
+*.pyo                    # Compiled Python files (older versions)
+*.pyd                    # Windows Python DLL files

@@ -1,0 +1,8 @@
+pymongo
+flask
+sqlalchemy
+dotenv
+werkzeug
+pytest
+pymysql
+openai
